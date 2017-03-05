@@ -1,0 +1,3 @@
+[submodule "discord-irc"]
+	path = discord-irc
+	url = https://github.com/Kroisse/discord-irc.git
