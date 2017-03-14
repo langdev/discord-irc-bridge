@@ -15,6 +15,7 @@ const config = [
         discordToken,
         channelMapping: {
             '#langdev': '#langdev',
+            '#rust': '#rust',
         },
         ircNickColor: true,
         preventMentionToAuthor: true,
