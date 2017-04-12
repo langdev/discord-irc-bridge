@@ -16,6 +16,7 @@ const config = [
         channelMapping: {
             '#langdev': '#langdev',
             '#rust': '#rust',
+            '#investment': '#investment',
         },
         ircNickColor: true,
         preventMentionToAuthor: true,
