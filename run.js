@@ -17,6 +17,7 @@ const config = [
             '#langdev': '#langdev',
             '#rust': '#rust',
             '#investment': '#investment',
+            '#politics': '#politics',
         },
         ircNickColor: true,
         preventMentionToAuthor: true,
